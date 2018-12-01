@@ -1,5 +1,5 @@
 # Face-super-resolution-collection
-This is a collection about face super-resolution.
+This is a collection about face super-resolution. Welcome others to contribute it! If you find some issues, please tell me I will correct it. Thank you.
 
 ## CVPR2018：（Id, Title, authors, project）
 * 1、	568，Super-FAN: Integrated Facial Landmark Localization and Super-Resolution of Real-World Low Resolution Faces in Arbitrary Poses With GANs, Adrian Bulat ; Georgios Tzimiropoulos
